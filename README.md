@@ -1,4 +1,4 @@
-# BaseApp
+# Base Flutter App
 
 This application is a mobile app template for small bussines than requiere a mobile platform to show its services and products. Its objective is similar to that of a business card. 
 
