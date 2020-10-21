@@ -23,7 +23,7 @@ class NavDrawer extends StatelessWidget {
               textAlign: TextAlign.left,
               overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                  color: Colors.white,
+                  color: Color.fromARGB(255, 17, 78, 37),
                   fontSize: 18,
                   fontWeight: FontWeight.bold),
             ),
@@ -36,7 +36,7 @@ class NavDrawer extends StatelessWidget {
               textAlign: TextAlign.left,
               overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                  color: Colors.white,
+                  color: Color.fromARGB(255, 17, 78, 37),
                   fontSize: 16,
                   fontWeight: FontWeight.bold),
             ),
@@ -49,7 +49,7 @@ class NavDrawer extends StatelessWidget {
               textAlign: TextAlign.left,
               overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                  color: Colors.white,
+                  color: Color.fromARGB(255, 17, 78, 37),
                   fontSize: 16,
                   fontWeight: FontWeight.bold),
             ),
@@ -62,7 +62,7 @@ class NavDrawer extends StatelessWidget {
               textAlign: TextAlign.left,
               overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                  color: Colors.white,
+                  color: Color.fromARGB(255, 17, 78, 37),
                   fontSize: 16,
                   fontWeight: FontWeight.bold),
             ),
@@ -75,7 +75,7 @@ class NavDrawer extends StatelessWidget {
               textAlign: TextAlign.left,
               overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                  color: Colors.white,
+                  color: Color.fromARGB(255, 17, 78, 37),
                   fontSize: 16,
                   fontWeight: FontWeight.bold),
             ),
