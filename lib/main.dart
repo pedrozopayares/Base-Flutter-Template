@@ -25,8 +25,8 @@ class MyApp extends StatelessWidget {
         // This is the theme of your application.
         primarySwatch: Colors.green,
         brightness: Brightness.light,
-        primaryColor: Colors.lightBlue[800],
-        accentColor: Colors.cyan[600],
+        primaryColor: Color.fromARGB(255, 13, 91, 104),
+        accentColor: Color.fromARGB(255, 33, 171, 111),
         fontFamily: 'Roboto',
         // Define the default TextTheme. Use this to specify the default
         // text styling for headlines, titles, bodies of text, and more.
